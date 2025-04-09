@@ -1,4 +1,4 @@
-const iclOA = "";
+const iclOA = "https://mobile-new.chinaeew.cn/v1/earlywarnings?start_at=&updates=";
 // 格式要求
 // {
     // "code": 0,
