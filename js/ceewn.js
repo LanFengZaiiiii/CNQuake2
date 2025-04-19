@@ -44,7 +44,7 @@ const iclOL = "https://mobile-new.chinaeew.cn/v1/earlywarnings?start_at=&updates
     // },
     // "md5": "57907c595c933179309e5deaebf5ce0d"
 // }
-const ceaOL = "";
+const ceaOL = "https://api.wolfx.jp/cenc_eew.json";
 // 格式要求
 // {
   // "Data": {
