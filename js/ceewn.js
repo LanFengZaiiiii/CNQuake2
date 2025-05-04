@@ -1,4 +1,4 @@
-const iclOA = ""https://mobile-new.chinaeew.cn/v1/earlywarnings?updates=3&start_at=1";
+const iclOA = "https://mobile-new.chinaeew.cn/v1/earlywarnings?updates=3&start_at=1";
 // 格式要求
 // {
     // "code": 0,
@@ -24,7 +24,7 @@ const iclOA = ""https://mobile-new.chinaeew.cn/v1/earlywarnings?updates=3&start_
         // {…}*N个
     // ]
 // }
-const iclOL = "https://mobile-new.chinaeew.cn/v1/earlywarnings?start_at=&updates=";
+const iclOL = "";
 // 格式要求 
 // {
     // "Data": {
